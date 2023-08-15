@@ -1,6 +1,6 @@
 {
   "name": "leyser-school-react-tpl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/johnmeng24/leyser-school-react-tpl",
   "bin": {
     "leyser-school-react-tpl": "bin/cli.js"
   },
